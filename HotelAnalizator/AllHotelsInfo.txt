@@ -1,0 +1,4 @@
+Hotel 1000 Ukraine, Kiev 3.1 4
+Hotel2 1900 Ukraine, Kiev 4 3.6
+Hotel3 600 Ukraine, Kiev 3.8 5
+Hotel4 3000 Ukraine, Kiev 4 2
